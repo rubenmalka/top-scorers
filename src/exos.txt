@@ -1,0 +1,23 @@
+1/ Créer un composant "scorers" et l'afficher en dessous du titre
+  Le composant doit recevoir le tableau scorers en props.
+
+2/ dans ce composant Scorers ,créer un tableau (list, divs, pas d'importance) qui affiche 
+  -le nom, 
+  -le nombre de buts marqués
+  -le nombre de passes décisives
+  pour chaque joueur.
+
+ (Utiliser la méthode map) 
+
+3/ Faire la meme chose mais n'afficher que les joueurs de Chelsea et d'Arsenal
+ (méthode filter ou méthode find ou mieux si vous trouvez)
+
+4/ De la même facon, afficher uniquemnt les joueurs qui totalisent plus de 4 passes décisives
+
+5/ Enfin, afficher les joueurs dans l'ordre décroissant du nombre de buts marqués.
+(méthode sort)
+
+PS : ne jamais modifier le tableau topScorers à la main dans le composant "App"! 
+
+
+
